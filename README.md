@@ -21,11 +21,11 @@ Badger is a badge aggregation platform that empowers users to showcase their ach
 
 ## 🔧 Tech Stack
 
-- **Frontend**: React, TailwindCSS, Material UI  
+- **Frontend**: React, TailwindCSS, Vite 
 - **Backend**: Node.js, Express.js, Redis  
-- **Database**: PostgreSQL  
+- **Database**: MongoDB  
 - **API Integrations**: OAuth / REST APIs for badge providers  
-- **Dev Tools**: Postman, Axios, GitHub Copilot
+- **Dev Tools**: Postman, Axios, GitHub Copilot, VScode,
 
 ## 🛠️ Getting Started
 
