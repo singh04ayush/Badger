@@ -19,13 +19,17 @@ Badger is a badge aggregation platform that empowers users to showcase their ach
 - 📦 **Embeddable Widgets**  
   Integrate badge boards into personal websites or portfolios with a simple snippet.
 
+- 🔐 **Blockchain-Based Verification**  
+  Validate badge authenticity using blockchain technology, ensuring trust and transparency in credential display.
+
 ## 🔧 Tech Stack
 
-- **Frontend**: React, TailwindCSS, Vite 
+- **Frontend**: React, TailwindCSS, Vite  
 - **Backend**: Node.js, Express.js, Redis  
 - **Database**: MongoDB  
+- **Blockchain**: Smart contract layer for badge verification (e.g., Ethereum, Polygon)  
 - **API Integrations**: OAuth / REST APIs for badge providers  
-- **Dev Tools**: Postman, Axios, GitHub Copilot, VScode,
+- **Dev Tools**: Postman, Axios, GitHub Copilot, VScode
 
 ## 🛠️ Getting Started
 
